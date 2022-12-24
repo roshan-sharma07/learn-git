@@ -1,0 +1,26 @@
+Create a new repository in github
+For new Repository --
+command :
+
+	-- git config --global user.name "Roshan"
+	-- git config --global user.email "r.s.8527227492@gmail.com"
+	-- git remote 
+	-- touch .gitignore // for create a file which contain ignore file name like node_modules
+	-- git init
+	-- git remote add origin "SSH Link"
+	-- ssh-keygen -t ed25519 -C "r.s.8527227492@gmail.com" // for generating SSH key For git authentication
+	-- git remote set-url origin "Paste SSH link from git repository"
+	-- git add .
+	-- git commit -m "commit name"
+	-- git status
+	-- cat "paste Path"
+	-- git push origin mater
+
+For Existing Repository --
+command :
+
+	-- git add .
+	-- git commit -m "commit name"
+	-- git status
+	-- cat "paste Path"
+	-- git push origin mater
