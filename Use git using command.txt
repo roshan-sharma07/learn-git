@@ -14,7 +14,7 @@ command :
 	-- git commit -m "commit name"
 	-- git status
 	-- cat "paste Path"
-	-- git push origin mater
+	-- git push origin master
 
 For Existing Repository --
 command :
